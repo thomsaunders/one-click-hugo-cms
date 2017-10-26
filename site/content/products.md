@@ -1,5 +1,5 @@
 ---
-title: Our Coffeeeees
+title: Our Coffee (Change)
 type: products
 page: /products.html
 image: /img/products/jumbotron.jpg
