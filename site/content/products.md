@@ -3,7 +3,7 @@ title: Our Coffee (Change)
 type: products
 page: /products.html
 image: /img/products/jumbotron.jpg
-heading: What we offer
+heading: What we offer...
 description: >-
   Kaldi is the ultimate spot for coffeess lovers who want to jmghkikutiikklearn
   about their java’s origin and support the farmers that grew it. We take coffee
